@@ -68,12 +68,10 @@ Tenho experiência prática em servidores de grande porte (Top 10 rankings FiveM
 
 ## 📊 GitHub Stats
 
-(Depois de criar sua conta ativa, substitua `SEUUSUARIO` pelo seu username)
-
 ```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dkfivemrp&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkfivemrp&layout=compact&theme=dark)
 ```
 
 ## 📫 Contato
