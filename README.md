@@ -1,26 +1,27 @@
-# Franklin dos Santos Silva
+# DK RP
 
 ```diff
 + FiveM Developer | Full Stack Developer | GTA RP Specialist
 ```
 
 Sou desenvolvedor com mais de **5 anos de experiência**, atuando principalmente no ecossistema **GTA RP / FiveM**.
-Iniciei na programação aos 12 anos e atualmente sou estudante do **Instito Federal de Alagoas (IFAL)**.
+Iniciei na programação aos 12 anos e atualmente sou cursado no **Instito Federal de Alagoas (IFAL)**.
 
 Tenho experiência prática em servidores de grande porte (Top 10 rankings FiveM), além de participação e premiação em projetos acadêmicos e tecnológicos.
 
 ## 🚀 Tech Stack
 
 ### 💻 Linguagens
-
+-- Java | C# | JavaScript | Lua
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-plain.svg" />
 </p>
 
 ### 🌐 Web & Frameworks
-
+-- Node.js | Vue.js | Jquery.js | + HTML5 / CSS3
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
