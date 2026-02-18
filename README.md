@@ -12,7 +12,9 @@ Tenho experiência prática em servidores de grande porte (Top 10 rankings FiveM
 ## 🚀 Tech Stack
 
 ### 💻 Linguagens
+
 -- Java | C# | JavaScript | Lua
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
@@ -21,7 +23,9 @@ Tenho experiência prática em servidores de grande porte (Top 10 rankings FiveM
 </p>
 
 ### 🌐 Web & Frameworks
+
 -- Node.js | Vue.js | Jquery.js | + HTML5 / CSS3
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
@@ -32,22 +36,22 @@ Tenho experiência prática em servidores de grande porte (Top 10 rankings FiveM
 
 ### 🎮 Game Development
 
+-- Unity
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40"/>
 </p>
 
-* FiveM (Back-End & Front-End)
-* Unity (C#)
-
 ### 🎨 Design & 3D
+
+* Modelagem 3D
+* Photoshop
+* Blender
+* Identidade visual para projetos
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" height="40"/>
 </p>
-
-* Modelagem 3D
-* UI/UX para servidores RP
-* Identidade visual para projetos
 
 ## 🏆 Experiência Acadêmica & Conquistas
 
@@ -65,14 +69,6 @@ Tenho experiência prática em servidores de grande porte (Top 10 rankings FiveM
 * Sistemas complexos e escaláveis
 * Desenvolvimento Full Stack
 * Integração com IA
-
-## 📊 GitHub Stats
-
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dkfivemrp&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkfivemrp&layout=compact&theme=dark)
-```
 
 ## 📫 Contato
 
