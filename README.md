@@ -5,7 +5,7 @@
 ```
 
 Sou desenvolvedor com mais de **5 anos de experiência**, atuando principalmente no ecossistema **GTA RP / FiveM**.
-Iniciei na programação aos 12 anos e atualmente sou cursado no **Instito Federal de Alagoas (IFAL)**.
+Iniciei na programação aos 12 anos**.
 
 Tenho experiência prática em servidores de grande porte (Top 10 rankings FiveM), além de participação e premiação em projetos acadêmicos e tecnológicos.
 
@@ -73,8 +73,6 @@ Tenho experiência prática em servidores de grande porte (Top 10 rankings FiveM
 ## 📫 Contato
 
 * Discord: **dkrp_082**
-* Email: **dkpixscr@gmail.com**
-* WhatsApp: **(82) 99933-5487**
 
 ## 🌐 Comunidade FiveM
 
