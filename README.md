@@ -1,7 +1,7 @@
 <h1 align="center">👾 DK RP</h1>
 
 <p align="center">
-  <strong>FiveM Developer | Full Stack Developer | GTA RP Specialist</strong>
+  <strong>FiveM Developer | Full Stack Developer | GTA RP Specialist | </strong>
   <strong>Atualmente atuando no Instituto Federal de Alagoas (IFAL)</strong>
 </p>
 
