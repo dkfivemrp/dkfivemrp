@@ -12,11 +12,11 @@
 
 ## 🚀 Sobre Mim
 
-- 🧠 +5 anos de experiência em desenvolvimento
-- 🎮 Especialista em servidores **GTA RP / FiveM**
-- 🏆 Experiência em servidores **Top 10 do ranking FiveM**
-- 🎓 Participação e premiação em projetos acadêmicos
-- ⚙️ Foco em sistemas **escaláveis e complexos**
+- 🧠 +5 anos de experiência em desenvolvimento  
+- 🎮 Especialista em servidores **GTA RP / FiveM**  
+- 🏆 Experiência em servidores **Top 10 do ranking FiveM**  
+- 🎓 Premiações e participação em projetos acadêmicos  
+- ⚙️ Foco em sistemas **complexos, escaláveis e performáticos**  
 
 ---
 
@@ -28,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="40"/>
 </p>
 
 `Java` • `JavaScript` • `C#` • `Lua`
@@ -49,6 +49,19 @@
 
 ---
 
+### ⚙️ Backend & Tools
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40"/>
+</p>
+
+`MySQL` • `Git` • `GitHub` • `NPM`
+
+---
+
 ### 🎮 Game Development
 
 <p>
@@ -63,6 +76,7 @@
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40"/>
 </p>
 
 - Modelagem 3D  
@@ -76,7 +90,7 @@
 
 - 🏙️ Desenvolvimento para cidades de grande porte  
 - 📈 Projetos entre os **Top 10 do ranking FiveM**  
-- ⚙️ Criação de sistemas complexos e escaláveis  
+- ⚙️ Sistemas complexos e altamente escaláveis  
 - 🔗 Integrações avançadas (incluindo IA)  
 - 🧩 Desenvolvimento Full Stack completo  
 
@@ -95,20 +109,23 @@
 
 ## 📫 Contato
 
-- 💬 Discord: **dkrp_082**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="20"/> 
+  <strong>dkrp_082</strong>
+</p>
 
 ---
 
 ## 🌐 Comunidade
 
-- 🔗 Discord: https://discord.gg/NBtdqHuw72  
+- 💬 Discord: https://discord.gg/NBtdqHuw72  
 
 ---
 
 ## 📺 YouTube
 
 - 🎥 +20 mil visualizações  
-- https://www.youtube.com/@dkfivemrp
+- https://www.youtube.com/@dkfivemrp  
 
 ---
 
