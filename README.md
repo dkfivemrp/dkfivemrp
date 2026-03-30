@@ -6,7 +6,6 @@
 
 <p align="center">
   Desenvolvedor com +5 anos de experiência focado no ecossistema <strong>GTA RP / FiveM</strong>.<br>
-  Iniciei na programação aos 12 anos e hoje atuo em projetos de grande escala.
 </p>
 
 ---
