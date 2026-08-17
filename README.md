@@ -1,135 +1,223 @@
-<h1 align="center">👾 DK RP</h1>
+<h1 align="center">DK RP</h1>
 
 <p align="center">
-  <strong>FiveM Developer | Full Stack Developer | GTA RP Specialist | </strong>
-  <strong>Atualmente atuando no Instituto Federal de Alagoas (IFAL)</strong>
+  <strong>Software Developer • FiveM • Backend • Full Stack</strong>
 </p>
 
 <p align="center">
-  Desenvolvedor com +5 anos de experiência focado no ecossistema <strong>GTA RP / FiveM</strong>.<br>
+  Desenvolvedor brasileiro com mais de 5 anos de experiência em programação,<br>
+  com atuação principalmente no ecossistema FiveM, aplicações web e sistemas backend.
 </p>
 
 ---
 
-## 🚀 Sobre Mim
+## Sobre
 
-- 🧠 +5 anos de experiência em desenvolvimento  
-- 🎮 Especialista em servidores **GTA RP / FiveM**  
-- 🏆 Experiência em servidores **Top 10 do ranking FiveM**  
-- 🎓 Premiações e participação em projetos acadêmicos  
-- ⚙️ Foco em sistemas **complexos, escaláveis e performáticos**  
+Trabalho com desenvolvimento de software há mais de 5 anos, principalmente construindo e mantendo sistemas para servidores FiveM / GTA RP.
 
----
+Durante esse período trabalhei com bases completas, sistemas administrativos, inventários, garagens, veículos, interfaces NUI, integrações com Discord, APIs, bancos de dados e ferramentas internas.
 
-## 🛠️ Tech Stack
+Já participei do desenvolvimento de projetos que alcançaram posições entre os servidores mais acessados do FiveM.
 
-### 💻 Linguagens
+Também desenvolvo projetos acadêmicos no Instituto Federal de Alagoas — IFAL, envolvendo programação, hardware e tecnologia.
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="40"/>
-</p>
-
-`Java` • `JavaScript` • `C#` • `Lua`
+Minha preferência é por código simples de manter, estrutura organizada e soluções que resolvam o problema sem criar complexidade desnecessária.
 
 ---
 
-### 🌐 Web & Frameworks
+## Tecnologias
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-</p>
+**Linguagens**
 
-`Node.js` • `Vue.js` • `jQuery` • `HTML5` • `CSS3`
+`Java` `JavaScript` `Lua` `C#` `SQL`
 
----
+**Backend**
 
-### ⚙️ Backend & Tools
+`Node.js` `REST APIs` `MySQL` `NPM`
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40"/>
-</p>
+**Frontend**
 
-`MySQL` • `Git` • `GitHub` • `NPM`
+`HTML` `CSS` `JavaScript` `Vue.js` `jQuery`
 
----
+**FiveM**
 
-### 🎮 Game Development
+`Lua` `NUI` `FiveM Native API` `ESX` `QBCore` `QBOX` `vRP`
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40"/>
-</p>
+**Ferramentas**
 
-`Unity`
+`Git` `GitHub` `Linux` `MySQL` `VS Code`
+
+**Outros**
+
+`Unity` `Blender` `Photoshop`
 
 ---
 
-### 🎨 Design & 3D
+## FiveM
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40"/>
-</p>
+Boa parte da minha experiência profissional veio do desenvolvimento para FiveM.
 
-- Modelagem 3D  
-- Blender  
-- Photoshop  
-- Identidade visual para projetos  
+Trabalho tanto com manutenção de projetos existentes quanto com desenvolvimento de sistemas do zero.
 
----
+Tenho experiência com:
 
-## 🎯 Experiência com FiveM
+* arquitetura e organização de bases;
+* desenvolvimento e manutenção de resources;
+* ESX, QBCore, QBOX e vRP;
+* sistemas standalone e multi-framework;
+* interfaces NUI;
+* integração entre client, server e frontend;
+* bancos de dados MySQL;
+* otimização de scripts;
+* correção de resources antigos;
+* migração entre frameworks;
+* sistemas de inventário;
+* sistemas de veículos;
+* garagens e concessionárias;
+* sistemas administrativos;
+* autenticação e licenciamento;
+* integração com Discord;
+* bots em Node.js;
+* APIs;
+* logs e auditoria;
+* proteção e validação de recursos.
 
-- 🏙️ Desenvolvimento para cidades de grande porte  
-- 📈 Projetos entre os **Top 10 do ranking FiveM**  
-- ⚙️ Sistemas complexos e altamente escaláveis  
-- 🔗 Integrações avançadas (incluindo IA)  
-- 🧩 Desenvolvimento Full Stack completo  
-
----
-
-## 🏆 Conquistas Acadêmicas
-
-- 🥇 1º lugar em eventos acadêmicos  
-- 📌 Projeto **E-Lixo Zero**  
-- 🌎 Apresentação de projetos fora do estado  
-- 📚 Participação na **XI Bienal**  
-- 🎓 Participação no **SIAI 2025**  
-- 🛠️ Projetos em programação, hardware e manutenção  
+Também trabalho bastante com projetos legados, onde normalmente o trabalho não é simplesmente criar algo novo, mas entender código antigo, encontrar conflitos e deixar o sistema estável novamente.
 
 ---
 
-## 📫 Contato
+## Backend e Web
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="20"/> 
-  <strong>dkrp_082</strong>
-</p>
+Além do FiveM, trabalho com aplicações e serviços utilizando principalmente JavaScript e Node.js.
+
+Algumas áreas com as quais tenho experiência:
+
+* desenvolvimento de APIs REST;
+* autenticação;
+* gerenciamento de usuários;
+* sistemas de licença;
+* integração com Discord;
+* automações;
+* comunicação entre serviços;
+* bancos relacionais;
+* dashboards administrativos;
+* painéis web;
+* aplicações internas.
+
+No frontend, trabalho principalmente com HTML, CSS, JavaScript e Vue.js.
 
 ---
 
-## 🌐 Comunidade
+## Experiência
 
-- 💬 Discord: https://discord.gg/NBtdqHuw72  
+Ao longo dos últimos anos participei de projetos de diferentes tamanhos, desde servidores menores até cidades com uma quantidade significativa de jogadores simultâneos.
+
+Já trabalhei com projetos que chegaram ao **Top 10 do ranking FiveM**, atuando em desenvolvimento, manutenção e implementação de sistemas.
+
+Minha rotina normalmente envolve:
+
+```text
+entender o problema
+↓
+analisar o código existente
+↓
+identificar dependências e conflitos
+↓
+implementar a solução
+↓
+testar
+↓
+simplificar o que for possível
+↓
+documentar
+```
+
+Não tenho muito interesse em complicar código para parecer sofisticado.
+
+Se pode ser simples, previsível e fácil de manter, prefiro assim.
 
 ---
 
-## 📺 YouTube
+## Projetos acadêmicos
 
-- 🎥 +20 mil visualizações  
-- https://www.youtube.com/@dkfivemrp  
+Além do desenvolvimento comercial, participo de projetos e atividades acadêmicas no Instituto Federal de Alagoas.
+
+Entre as experiências estão:
+
+* 1º lugar em eventos acadêmicos;
+* projeto E-Lixo Zero;
+* apresentação de projetos fora do estado;
+* participação na XI Bienal;
+* participação no SIAI 2025;
+* projetos envolvendo programação;
+* manutenção de computadores;
+* hardware;
+* tecnologia aplicada.
+
+---
+
+## Atualmente estudando
+
+Sempre mantenho alguma tecnologia ou conceito novo em estudo.
+
+Atualmente tenho interesse principalmente em:
+
+* arquitetura backend;
+* segurança de aplicações;
+* engenharia de software;
+* infraestrutura;
+* Linux;
+* sistemas distribuídos;
+* otimização;
+* automação;
+* inteligência artificial aplicada a software.
+
+---
+
+## Como eu trabalho
+
+Alguns princípios que tento manter nos meus projetos:
+
+```text
+Código legível > código inteligente demais
+
+Manutenção > solução descartável
+
+Resolver a causa > esconder o erro
+
+Documentação > depender da memória
+
+Testar > assumir que funciona
+```
+
+---
+
+## GitHub
+
+Este perfil reúne projetos pessoais, estudos, ferramentas e partes do trabalho que posso disponibilizar publicamente.
+
+Grande parte do meu trabalho com FiveM pertence a projetos comerciais ou clientes e, por esse motivo, nem todo código desenvolvido por mim está disponível publicamente.
+
+---
+
+## Contato
+
+**Discord**
+
+`dkrp_082`
+
+**Comunidade**
+
+https://discord.gg/NBtdqHuw72
+
+**YouTube**
+
+https://www.youtube.com/@dkfivemrp
+
+Mais de 20 mil visualizações em conteúdos relacionados a desenvolvimento e FiveM.
 
 ---
 
 <p align="center">
-  💡 "Construindo experiências dentro e fora do jogo."
+  <sub>DK RP • Software Development</sub>
 </p>
